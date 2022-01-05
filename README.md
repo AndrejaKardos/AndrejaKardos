@@ -25,7 +25,7 @@
 3. Where are you from? 
 
       I'm a citizen of Slovenia, a small country in Europe. I'm Slavic, hence the crazy name, haha. 
-      I moved to Australia in 2019 to be with my Australian partner. :)
+      I moved to Melbourne in 2019 to be with my Australian partner. :)
 
 4. What do you do?
 
@@ -36,17 +36,7 @@
       I originally studied pure mathematics in Slovenia, which had some coding subjects that I really enjoyed. 
       I decided to get a degree in frontend development when I moved to Australia. 
       
-6. What languages do you speak and how did you learn them?
-
-      * Prekmurščina (mother tongue)
-      * Slovenian
-      * German
-      * English
- 
-      I come from a region in Slovenia called Prekmurje. We speak in 'prekmurski' tongue there, but Slovenian is still our country's official language. 
-      German and English happened by watching anime and cartoons for many years without subtitles! Brains are amazing, huh? 
-      
-7. What coding languages and frameworks do you know? 
+6. What coding languages and frameworks do you know? 
 
       I have learned and am improving on:
       
