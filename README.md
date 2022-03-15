@@ -2,17 +2,16 @@
 
    **Interests:** coding, gaming, tabletop games, crocheting, escape rooms, puzzles, mathematics, weight-lifting 
 
-   **Personality type:** INTJ-T
+   **Personality type:** INTJ-T (https://www.16personalities.com/intj-personality)
   
    **Currently learning:** Typescript and React hooks
   
-  I love Shiba Inus! :dog2: 
-
+  
                                                              --- * ---
 
 1. Can you describe yourself a bit? 
 
-      I am a very passionate and energetic person, who spends a lot of her free time trying to achieve goals and improve. 
+      I am a very passionate and energetic person, who spends a lot of her free time achieving goals and trying to improve. 
       This goes for hobbies too, not just coding and work! I am super driven and motivated, so I'm always doing something, 
       and I tend to plan ahead in advance. It's a great source of joy when I set goals and achieve them, even small ones. :)
 
@@ -41,13 +40,13 @@
       I have learned and am improving on:
       
           * Javascript, HTML and CSS
-          * ReactJS (vanilla version, and React Hooks)
+          * ReactJS (vanilla and React Hooks)
           * Typescript
           * SQL
           * Bootstrap
           * REST APIs
       
-      But I'd also like to learn this in the future: 
+      But I'd also like to learn these in the future: 
       
           * Java
           * C++, C#, C
