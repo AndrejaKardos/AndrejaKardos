@@ -1,10 +1,22 @@
   Hiya! :cherry_blossom: I’m Andreja but everyone calls me Andie. :)
 
-   **Interests:** coding, gaming, tabletop games, crocheting, escape rooms, puzzles, mathematics, weight-lifting 
+   **Interests:** 
+   - coding, 
+   - video games, 
+   - tabletop games, 
+   - speedcubing, 
+   - escape rooms, 
+   - puzzles, 
+   - mathematics, 
+   - weight-lifting, 
+   - crocheting
 
    **Personality type:** INTJ-T (https://www.16personalities.com/intj-personality)
   
-   **Currently learning:** Typescript and React hooks
+   **Currently:** 
+   - Improving on Typescript
+   - Looking into starting an Arduino/Raspberry Pi project!
+   - Learning 2x2
   
   
                                                              --- * ---
@@ -28,7 +40,7 @@
 
 4. What do you do?
 
-      I'm currently a junior frontend developer!
+      I'm currently a junior frontend developer! But my plan is to become fullstack + acquire iOS and/or Android knowledge :D
       
 5. What did you study? 
 
@@ -39,9 +51,10 @@
 
       I have learned and am improving on:
       
-          * Javascript, HTML and CSS
-          * ReactJS (vanilla and React Hooks)
           * Typescript
+          * Javascript
+          * HTML and CSS
+          * React (vanilla and with React Hooks)
           * SQL
           * Bootstrap
           * REST APIs
@@ -52,6 +65,8 @@
           * C++, C#, C
           * Node.js
           * More about databases & how to implement them along with frontend
+          * SWIFT
+          * Making my own Raspberry Pi projects
 
 <!---
 AndrejaKardos/AndrejaKardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
