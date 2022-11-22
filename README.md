@@ -15,7 +15,7 @@
   
    **Currently:** 
    - Improving on Typescript
-   - Looking into starting an Arduino/Raspberry Pi project!
+   - Looking into starting an Arduino project
    - Learning 2x2
   
   
@@ -66,7 +66,7 @@
           * Node.js
           * More about databases & how to implement them along with frontend
           * SWIFT
-          * Making my own Raspberry Pi projects
+          * Making Arduino & Raspberry Pi projects
 
 <!---
 AndrejaKardos/AndrejaKardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
