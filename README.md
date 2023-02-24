@@ -2,21 +2,20 @@
 
    **Interests:** 
    - coding, 
+   - weight-lifting, 
    - video games, 
    - tabletop games, 
    - speedcubing, 
    - escape rooms, 
    - puzzles, 
    - mathematics, 
-   - weight-lifting, 
-   - crocheting
+   - crocheting.
 
    **Personality type:** INTJ-T (https://www.16personalities.com/intj-personality)
   
-   **Currently:** 
-   - Improving on Typescript
-   - Looking into starting an Arduino project
-   - Learning 2x2
+   **Currently learning/improving on:** 
+   - Typescript
+   - Arduino
   
   
                                                              --- * ---
