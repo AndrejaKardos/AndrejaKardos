@@ -6,12 +6,12 @@
    - video games, 
    - tabletop games, 
    - speedcubing, 
-   - escape rooms, 
    - puzzles, 
    - mathematics, 
    - crocheting.
 
-   **Personality type:** INTJ-T (https://www.16personalities.com/intj-personality)
+   **MBTI Personality Type:** INTJ-T (https://www.16personalities.com/intj-personality)
+   **DISC Personality Type:** Dc (https://www.crystalknows.com/disc/dc-personality-type)
   
    **Currently learning/improving on:** 
    - Typescript
@@ -26,27 +26,21 @@
       This goes for hobbies too, not just coding and work! I am super driven and motivated, so I'm always doing something, 
       and I tend to plan ahead in advance. It's a great source of joy when I set goals and achieve them, even small ones. :)
 
-2. How do you pronounce your name?!
-
-      Andreja = ahn-DRE-yah 
-
-      Kardoš = CAR-dosh
-
-3. Where are you from? 
+2. Where are you from? 
 
       I'm a citizen of Slovenia, a small country in Europe. I'm Slavic, hence the crazy name, haha. 
       I moved to Melbourne in 2019 to be with my Australian partner. :)
 
-4. What do you do?
+3. What do you do?
 
       I'm currently a junior frontend developer! But my plan is to become fullstack + acquire iOS and/or Android knowledge :D
       
-5. What did you study? 
+4. What did you study? 
 
       I originally studied pure mathematics in Slovenia, which had some coding subjects that I really enjoyed. 
       I decided to get a degree in frontend development when I moved to Australia. 
       
-6. What coding languages and frameworks do you know? 
+5. What coding languages and frameworks do you know? 
 
       I have learned and am improving on:
       
@@ -64,7 +58,9 @@
           * C++, C#, C
           * Node.js
           * More about databases & how to implement them along with frontend
+          * Python
           * SWIFT
+          * Network Security & Cryptography
           * Making Arduino & Raspberry Pi projects
 
 <!---
