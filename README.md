@@ -11,7 +11,9 @@
    - crocheting.
 
    **MBTI Personality Type:** INTJ-T (https://www.16personalities.com/intj-personality)
+   
    **DISC Personality Type:** Dc (https://www.crystalknows.com/disc/dc-personality-type)
+  
   
    **Currently learning/improving on:** 
    - Typescript
@@ -33,7 +35,7 @@
 
 3. What do you do?
 
-      I'm currently a junior frontend developer! But my plan is to become fullstack + acquire iOS and/or Android knowledge :D
+      I'm currently a frontend developer. My goal is to become fullstack + acquire iOS and/or Android knowledge :D
       
 4. What did you study? 
 
