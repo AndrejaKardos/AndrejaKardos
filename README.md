@@ -12,7 +12,7 @@
 
    **MBTI Personality Type:** INTJ-T (https://www.16personalities.com/intj-personality)
    
-   **DISC Personality Type:** Dc (https://www.crystalknows.com/disc/dc-personality-type)
+   **DiSC Personality Type:** DC (https://www.discprofiles.com/disc-dc-type/)
   
   
    **Currently learning/improving on:** 
