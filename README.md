@@ -2,12 +2,12 @@
 
    **Interests:** 
    - coding, 
-   - weight-lifting, 
+   - weight-lifting,
+   - solving logic puzzles, 
+   - mathematics, 
    - video games, 
    - tabletop games, 
    - speedcubing, 
-   - puzzles, 
-   - mathematics, 
    - crocheting.
 
    **MBTI Personality Type:** INTJ-A (https://www.16personalities.com/intj-personality)
@@ -17,7 +17,11 @@
   
    **Currently learning/improving on:** 
    - Typescript
-   - Arduino
+   - C#
+   - .NET
+
+     ![image](https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb)
+
   
   
                                                              --- * ---
