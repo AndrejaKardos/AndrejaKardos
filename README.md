@@ -10,7 +10,7 @@
    - mathematics, 
    - crocheting.
 
-   **MBTI Personality Type:** INTJ-T (https://www.16personalities.com/intj-personality)
+   **MBTI Personality Type:** INTJ-A (https://www.16personalities.com/intj-personality)
    
    **DiSC Personality Type:** DC (https://www.discprofiles.com/disc-dc-type/)
   
