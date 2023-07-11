@@ -19,34 +19,33 @@
    - Typescript
    - C#
    - .NET
-
-     ![image](https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb)
-
   
-  
-                                                             --- * ---
+                                                   --- * ---
+     
 
 1. Can you describe yourself a bit? 
 
-      I am a very passionate and energetic person, who spends a lot of her free time achieving goals and trying to improve. 
+      I'm a very passionate and energetic person, who spends a lot time achieving goals and trying to improve. 
       This goes for hobbies too, not just coding and work! I am super driven and motivated, so I'm always doing something, 
       and I tend to plan ahead in advance. It's a great source of joy when I set goals and achieve them, even small ones. :)
 
-2. Where are you from? 
+   ![image](https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb)
+
+3. Where are you from? 
 
       I'm a citizen of Slovenia, a small country in Europe. I'm Slavic, hence the crazy name, haha. 
       I moved to Melbourne in 2019 to be with my Australian partner. :)
 
-3. What do you do?
+4. What do you do?
 
-      I'm currently a frontend developer. My goal is to become fullstack + acquire iOS and/or Android knowledge :D
+      I'm currently a frontend developer, and learning backend in order to become fullstack :D
       
-4. What did you study? 
+5. What did you study? 
 
       I originally studied pure mathematics in Slovenia, which had some coding subjects that I really enjoyed. 
       I decided to get a degree in frontend development when I moved to Australia. 
       
-5. What coding languages and frameworks do you know? 
+6. What coding languages and frameworks do you know? 
 
       I have learned and am improving on:
       
