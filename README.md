@@ -4,50 +4,62 @@
    - coding, 
    - weight-lifting,
    - solving logic puzzles, 
-   - mathematics, 
+   - mathematics,
+   - robots & robotics,
    - video games, 
    - tabletop games, 
    - speedcubing, 
    - crocheting.
 
+  <br>
+
    **MBTI Personality Type:** INTJ-A (https://www.16personalities.com/intj-personality)
    
    **DiSC Personality Type:** DC (https://www.discprofiles.com/disc-dc-type/)
+
+  <br>
+                                                  
   
-  
-   **Currently learning/improving on:** 
+   **Currently actively learning/improving on:** 
    - C#
    - .NET
    - Typescript 
-  
-                                                   --- * ---
+
+  <br>
      
 
-1. Can you describe yourself a bit? 
+**Can you describe yourself a bit?**
 
-      I'm a very passionate and energetic person, who spends a lot time achieving goals and trying to improve. 
-      This goes for hobbies too, not just coding and work! I am super driven and motivated, so I'm always doing something, 
-      and I tend to plan ahead in advance. It's a great source of joy when I set goals and achieve them, even small ones. :)
+  I'm an enthusiastic and energetic individual who thrives on setting and accomplishing goals, whether it's in my professional life or pursuing hobbies. My unwavering passion and motivation keep me consistently engaged and proactive, always 
+  planning ahead to make the most of every opportunity. While some may label me as having a type A personality, I embrace it with a sense of enjoyment! Accomplishing even the tiniest of goals fills me with immense joy and satisfaction. :)
 
-   ![image](https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb|width=500)
+<br>
+   <p align="center">
+    <img width="500" src="https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb" alt="Meme of Type A personality type">
+   </p>
+<br>
 
-3. Where are you from? 
+**Where are you from?**
 
-      I'm a citizen of Slovenia, a small country in Europe. I'm Slavic, hence the crazy name, haha. 
-      I moved to Melbourne in 2019 to be with my Australian partner. :)
+  I'm a citizen of Slovenia, a small country in Europe. 
+  I moved to Melbourne in 2019 to be with my Australian partner. 
 
-4. What do you do?
-
-      I'm currently a frontend developer, and learning backend in order to become fullstack :D
+<br>
       
-5. What did you study? 
+**What did you study?**
 
-      I originally studied pure mathematics in Slovenia, which had some coding subjects that I really enjoyed. 
-      I decided to get a degree in frontend development when I moved to Australia, with the plan to become fullstack.
+  I originally studied pure mathematics in Slovenia, which had some coding subjects that I really enjoyed. 
+  I decided to pursue a degree in frontend development before I moved to Australia, with the plan to become fullstack.
+
+<br>
       
-6. What coding languages and frameworks do you know? 
+**What is your skill set?**
 
-      I have learned and am improving on:
+  Actively learning:
+
+          * C# and .NET
+
+  I have learned and am improving on:
       
           * Typescript
           * Javascript
@@ -57,9 +69,8 @@
           * Bootstrap
           * REST APIs
           * Azure
-          * C# and .NET
       
-      But I'd also like to learn these in the future: 
+  I'd also like to learn these in the future: 
       
           * Java
           * C++, C
