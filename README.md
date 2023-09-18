@@ -16,9 +16,9 @@
   
   
    **Currently learning/improving on:** 
-   - Typescript
    - C#
    - .NET
+   - Typescript 
   
                                                    --- * ---
      
@@ -29,7 +29,7 @@
       This goes for hobbies too, not just coding and work! I am super driven and motivated, so I'm always doing something, 
       and I tend to plan ahead in advance. It's a great source of joy when I set goals and achieve them, even small ones. :)
 
-   ![image](https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb)
+   ![image](https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb|width=500)
 
 3. Where are you from? 
 
@@ -56,17 +56,18 @@
           * SQL
           * Bootstrap
           * REST APIs
+          * Azure
+          * C# and .NET
       
       But I'd also like to learn these in the future: 
       
           * Java
-          * C++, C#, C
+          * C++, C
           * Node.js
           * More about databases & how to implement them along with frontend
           * Python
-          * SWIFT
           * Network Security & Cryptography
-          * Making Arduino & Raspberry Pi projects
+          * Arduino & Raspberry Pi projects
 
 <!---
 AndrejaKardos/AndrejaKardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
