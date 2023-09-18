@@ -43,7 +43,7 @@
 5. What did you study? 
 
       I originally studied pure mathematics in Slovenia, which had some coding subjects that I really enjoyed. 
-      I decided to get a degree in frontend development when I moved to Australia. 
+      I decided to get a degree in frontend development when I moved to Australia, with the plan to become fullstack.
       
 6. What coding languages and frameworks do you know? 
 
