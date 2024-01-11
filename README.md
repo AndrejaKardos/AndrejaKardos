@@ -1,4 +1,4 @@
-  Hiya! :cherry_blossom: I’m Andreja but everyone calls me Andie. :)
+  Hiya! I’m Andreja but everyone calls me Andie. :)
 
    **Interests:** 
    - coding, 
