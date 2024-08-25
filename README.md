@@ -27,7 +27,7 @@
 
 <br>
    <p align="center">
-    <img width="300" src="https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb" alt="Meme of Type A personality type">
+    <img width="400" src="https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb" alt="Meme of Type A personality type">
    </p>
 <br>
 
