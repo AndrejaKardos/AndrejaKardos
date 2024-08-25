@@ -1,15 +1,16 @@
-  Hiya! I’m Andreja but everyone calls me Andie. :)
+  Hiya! I’m Andreja, but everyone just calls me Andie~
 
-   **Interests:** 
-   - coding, 
-   - weight-lifting,
-   - solving logic puzzles, 
-   - mathematics,
-   - robots & robotics,
-   - video games, 
-   - tabletop games, 
-   - speedcubing, 
-   - crocheting.
+   **Main interests:** 
+   - coding 
+   - weight-lifting
+   - solving logic puzzles 
+   - maths
+   - robotics
+   - video games
+   - tabletop games
+   - speedcubing
+   - crocheting
+   - learning 
 
   <br>
 
@@ -18,67 +19,50 @@
    **DiSC Personality Type:** DC (https://www.discprofiles.com/disc-dc-type/)
 
   <br>
-                                                  
-  
-   **Currently actively learning/improving on:** 
-   - C#
-   - .NET
-   - Typescript 
-
-  <br>
      
 
 **Can you describe yourself a bit?**
 
-  I'm an enthusiastic and energetic individual who thrives on setting and accomplishing goals, whether it's in my professional life or pursuing hobbies. My unwavering passion and motivation keep me consistently engaged and proactive, always 
-  planning ahead to make the most of every opportunity. While some may label me as having a type A personality, I embrace it with a sense of enjoyment! Accomplishing even the tiniest of goals fills me with immense joy and satisfaction. :)
+  I'm an enthusiastic and energetic individual who thrives on setting and accomplishing goals, whether it's in my professional life or pursuing hobbies. Learning something new and accomplishing even the tiniest of goals fills me with immense joy and satisfaction. :)
 
 <br>
    <p align="center">
-    <img width="500" src="https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb" alt="Meme of Type A personality type">
+    <img width="300" src="https://github.com/AndrejaKardos/AndrejaKardos/assets/58579363/bce9ad32-0f89-49d7-8357-088217c1ccdb" alt="Meme of Type A personality type">
    </p>
 <br>
 
 **Where are you from?**
 
-  I'm a citizen of Slovenia, a small country in Europe. 
-  I moved to Melbourne in 2019 to be with my Australian partner. 
+  I'm from a small country in Europe called Slovenia, full of beautiful greenery and sights. I've been able to call Melbourne my home since 2019, which was the year I moved across the globe to live with my partner (now husband).
 
 <br>
       
 **What did you study?**
 
-  I originally studied pure mathematics in Slovenia, which had some coding subjects that I really enjoyed. 
-  I decided to pursue a degree in frontend development before I moved to Australia, with the plan to become fullstack.
+  I originally studied maths in Slovenia, which had some coding subjects that I really enjoyed. The plan was always to pursue some form of computer science or programming in addition to maths.
+  I decided to pursue a degree in frontend development before I moved to Australia, with the plan being to become fullstack.
 
 <br>
       
 **What is your skill set?**
 
-  Actively learning:
+  Actively learning (current personal project):
 
-          * C# and .NET
+          * NodeJS
+          * NestJS
 
-  I have learned and am improving on:
+  Some other skills:
       
           * Typescript
-          * Javascript
-          * HTML and CSS
-          * React (vanilla and with React Hooks)
-          * SQL
-          * Bootstrap
-          * REST APIs
+          * React
+          * HTML
+          * CSS
           * Azure
-      
-  I'd also like to learn these in the future: 
-      
-          * Java
-          * C++, C
-          * Node.js
-          * More about databases & how to implement them along with frontend
-          * Python
-          * Network Security & Cryptography
-          * Arduino & Raspberry Pi projects
+          * REST APIs
+          * C#
+          * .NET
+          * SQL
+   
 
 <!---
 AndrejaKardos/AndrejaKardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
