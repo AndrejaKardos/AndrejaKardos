@@ -23,8 +23,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
 
 **Can you describe yourself a bit?**
 
-  I'm a progress-focused person, who thrives on learning and improvement. There's nothing more satisfying to me than solving a tricky problem, or finding a way to improve myself and the systems I work with. I value curiosity and deep understanding, so I spend a lot of my time understanding how everything works and why. I approach everything in life with a mindset of continuous improvement.
-  Outside of coding, I enjoy a mix of hobbies. I love walks and weight-lifting, and there's always some type of educational content or gadget within my reach I'm fiddling with. I love tinkering with projects like Lego Mindstorm robots and Arduino, or just trying to get faster at solving Rubik's cubes. When I'm not building something, you'll find me spending time with my partner and friends, playing video games or board games, or just having a chat about anything and everything. I love a good conversation, expecially when they lead to fresh ideas and new perspectives.
+  I'm all about learning, improving, and solving problems — whether it's in my work or in life. I love diving deep to understand how things work and figuring out how to make things better all the time. When I'm not coding, I'm either lifting weights, reading books, tinkering with gadgets, or trying to beat my Rubik's cube time. I also love spending time with my partner and friends, playing video games, tabletop games, or just having good conversations.
 
 <br>
    <p align="center">
