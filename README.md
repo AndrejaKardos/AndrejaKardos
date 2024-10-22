@@ -40,13 +40,13 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
 **What did you study?**
 
   I originally studied maths in Slovenia, which had some coding subjects that I really enjoyed. The plan was always to pursue some form of computer science or programming in addition to maths.
-  I decided to pursue a degree in frontend development right before I moved to Australia, with the plan to become a full-stack software engineer.
+  I decided to pursue a degree in frontend development as I moved to Australia, with the plan to become a well-rounded full-stack software engineer down the line.
 
 <br>
       
 **What is your skill set?**
 
-  Actively learning (current personal project):
+  Actively skilling up in (current personal project):
 
           * Nestjs (Nodejs)
 
@@ -58,7 +58,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
           * CSS
           * Azure
           * REST APIs
-          * C#
+          * C#, .NET
           * .NET
           * SQL
 
