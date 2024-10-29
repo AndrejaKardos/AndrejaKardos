@@ -59,7 +59,6 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
           * Azure
           * REST APIs
           * C#, .NET
-          * .NET
           * SQL
 
 <!---
