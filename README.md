@@ -39,8 +39,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
       
 **What did you study?**
 
-  I originally studied maths in Slovenia, where the curriculum covered a substantial amount of computer science subjects. The plan was always to pursue some form of computer science or programming in addition to maths.
-  Thus I decided to pursue a degree in frontend development as I moved to Australia, with the plan to become a well-rounded full-stack software engineer down the line.
+  I originally studied maths in Slovenia, where the curriculum covered a substantial amount of computer science subjects. The plan was always to pursue some form of computer science or programming in addition to maths, so I decided to pursue a degree in frontend development as I moved to Australia, with the plan to become a well-rounded full-stack software engineer down the line.
 
 <br>
       
