@@ -1,6 +1,7 @@
 Hello there! I’m Andreja, but everyone just calls me Andie.
 
    **Main interests:** 
+   - bouldering
    - coding 
    - weight-lifting
    - solving logic puzzles 
@@ -8,7 +9,6 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
    - robotics
    - video games
    - tabletop games
-   - bouldering
    - speedcubing
    - crocheting
    - learning 
