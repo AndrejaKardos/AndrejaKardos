@@ -4,14 +4,14 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
    - bouldering
    - coding 
    - weight-lifting
-   - solving logic puzzles 
+   - logic puzzles 
    - maths
    - robotics
    - video games
    - tabletop games
    - speedcubing
    - crocheting
-   - learning 
+   - learning
 
   <br>
 
