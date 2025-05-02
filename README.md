@@ -11,7 +11,6 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
    - tabletop games
    - speedcubing
    - crocheting
-   - learning
 
   <br>
 
