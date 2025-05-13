@@ -23,7 +23,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
 
 **Can you describe yourself a bit?**
 
-  I'm all about learning, improving, and solving problems — whether it's in my work or in life. I love diving deep to understand how things work and figuring out how to make things better all the time. When I'm not coding, I'm either lifting weights, reading books, tinkering with gadgets, or trying to beat my Rubik's cube time. I also love spending time with my partner and friends, playing video games, tabletop games, or just having good conversations.
+  I'm all about learning, improving, and solving problems — whether it's in my work or in life. I love diving deep to understand how things work and figuring out how to make things better all the time. When I'm not coding, I'm bouldering, lifting weights, reading books, or ... acquiring a new obsession and learning absolutely everything about it. Did you know Orcas speak in different dialects? Anyway, I also love spending time with my partner and friends, playing video games and tabletop games, and just going on walks. :)
 
 <br>
    <p align="center">
@@ -39,15 +39,16 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
       
 **What did you study?**
 
-  I originally studied maths in Slovenia, where the curriculum covered a substantial amount of computer science subjects. The plan was always to pursue an extra form of computer science and programming in addition to maths. When I moved to Australia, I decided to pursue a degree in frontend development, with the plan to become a well-rounded full-stack software engineer down the line.
+  I originally studied maths and computer science in Slovenia. After moving to Australia, I decided to pursue an advanced, specialised degree in frontend development, with the goal of becoming a well-rounded full-stack software engineer down the line.
 
 <br>
       
 **What is your skill set?**
 
-  Actively skilling up in (current personal projects):
+  Current obsessions
 
           * Nestjs (Nodejs)
+          * Nextjs
 
   Some other skills:
       
@@ -58,7 +59,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
           * Azure
           * REST APIs
           * C#, .NET
-          * SQL
+          * SQL (PostgreSQL, MS SQL)
 
 <!---
 AndrejaKardos/AndrejaKardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
