@@ -7,6 +7,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
    - logic puzzles 
    - maths
    - robotics
+   - cybersecurity
    - video games
    - tabletop games
    - speedcubing
@@ -48,7 +49,6 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
   Actively skilling up in:
 
           * Nestjs (Nodejs)
-          * Nextjs
 
   Some other skills:
       
