@@ -62,7 +62,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
           * C#, .NET
           * Node.js
           * SQL (PostgreSQL, MS SQL)
-          * etc.
+          * etc
 
 <!---
 AndrejaKardos/AndrejaKardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
