@@ -48,7 +48,8 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
 
   Actively skilling up in:
 
-          * Nestjs (Nodejs)
+          * Nest.js
+          * Next.js
 
   Some other skills:
       
@@ -59,7 +60,9 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
           * Azure
           * REST APIs
           * C#, .NET
+          * Node.js
           * SQL (PostgreSQL, MS SQL)
+          * etc.
 
 <!---
 AndrejaKardos/AndrejaKardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
