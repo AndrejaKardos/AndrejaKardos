@@ -17,7 +17,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
 
    **MBTI Personality Type:** [INTJ-A](https://www.16personalities.com/intj-personality)
    
-   **DiSC Personality Type:** [CD](https://www.discprofiles.com/disc-cd-type/)
+   **DiSC Personality Type:** [Dc]([https://www.discprofiles.com/disc-cd-type/](https://www.crystalknows.com/disc/dc-personality-type))
 
   <br>
      
