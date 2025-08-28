@@ -24,7 +24,7 @@ Hello there! I’m Andreja, but everyone just calls me Andie.
 
 **Can you describe yourself a bit?**
 
-  I'm all about learning, improving, and solving problems — whether that's work or leisure. I love diving deep to understand how things work and figuring out how to make things better all the time. When I'm not coding, I'm bouldering, lifting weights, reading books, or ... acquiring a new obsession and learning absolutely everything about it. Did you know Orcas speak in different dialects? Anyway, I also love spending time with my partner and friends, playing video games and tabletop games, and just going on walks. :)
+  I'm all about learning, improving, and solving problems, whether that's work or leisure. I love diving deep to understand how things work and figuring out how to make things better all the time. When I'm not coding, I'm bouldering, lifting weights, reading books, or ... acquiring a new obsession and learning absolutely everything about it. Did you know Orcas speak in different dialects? Anyway, I also love spending time with my partner and friends, playing video games and tabletop games, and just going on walks. :)
 
 <br>
    <p align="center">
